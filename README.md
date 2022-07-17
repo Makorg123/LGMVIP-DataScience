@@ -1,3 +1,5 @@
 # LGMVIP-DataScience
+# Name : Anas Khan 
+# Batch: July 2022
 ## Task 1: iris Flower Classification [Completed]
 ## Task 2: Stock Market Prediction Using Stacked LSTM [Completed]
